@@ -28,7 +28,9 @@ class App extends React.Component {
   render() {
     return (
       <div className="App app-flex">
-        <h1>HOME PAGE</h1>
+        <Navbar parentCallback = {this.callbackFunction} ></Navbar>
+        {/*<SearchScreen></SearchScreen>*/}
+        {this.switchRender()}
       </div>
     );
   }
