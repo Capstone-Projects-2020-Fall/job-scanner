@@ -1,0 +1,6 @@
+.job-panel{
+    margin-left:20px;
+    height: 90vh;
+    width: 60vw;
+    overflow-y: auto;
+}
