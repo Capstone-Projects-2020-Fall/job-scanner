@@ -1,3 +1,1 @@
-# job-scanner
-
-This is the place we put all the codes together and test out
+# This is the original and also abandoned repo, please go to another "jobscanner" repo for details
